@@ -1,0 +1,6 @@
+{
+  "name": "EduGuide AI",
+  "description": "Đồng hành cùng học sinh lựa chọn tổ hợp môn lớp 10 theo định hướng nghề nghiệp, khảo sát Holland RIASEC và nguyện vọng đại học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
